@@ -1,0 +1,85 @@
+Bruno
+m
+Dog
+Pug
+black
+5112017
+12.0
+David
+Barton
+davidbarton@gmail.com
+9496072942
+1425 Elk Street Anaheim, CA 92805
+none
+9d717cb9-68c7-4079-a16d-b02704f52c55
+noExaminations
+noTests
+Butter
+m
+Dog
+Greyhound
+Black
+4072016
+62.0
+Maria
+Nyugen
+maria312@gmail.com
+6126155868
+1569 Jewell Road Minneapolis, MN 55401
+none
+0f3380a1-c2f1-4ad7-9b2e-3db5f3803955
+noExaminations
+noTests
+Jimmy
+m
+dog
+greyhound
+black
+1112014
+24.0
+Derrick
+Parsons
+derrick12@hotmail.com
+2415452341
+3600 Davis Court Herrin, IL 62948
+none
+8e93099d-4b21-480a-b880-f71bc1c835e6
+noExaminations
+Total Protein Test;Incompleted;7092019
+noTests
+Oreo
+m
+Dog
+Greyhound
+Black & White
+11022009
+66.0
+Maria
+Nyugen
+maria312@gmail.com
+6126155868
+1569 Jewell Road Minneapolis, MN 55401
+none
+ccf7b146-72b0-42c0-8b35-beefd6c167f3
+2032018;easily irritated, abnormal posture;obtain two different tissues from brain;give rabies shots;ensure patient doesnt eat before
+noExaminations
+Total Protein Test;Incompleted;27032018
+Urinalysis;Completed;9032018
+Tick Testing;Incompleted;9032018
+noTests
+Sammy
+m
+Cat
+Feline
+White
+3112011
+8.7
+Mindy
+Hudson
+MindyHud1@yahoo.com
+8016929426
+49 Hickory Street Salt Lake City, UT 84111
+none
+08dd10ee-1ec0-4937-b4ac-c828cd61ad6a
+noExaminations
+noTests
